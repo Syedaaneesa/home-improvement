@@ -76,8 +76,8 @@ Key efforts include:
 If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
 
 **👤 Developer:** Syeda Aneesa  
-**📧 Email:** [your-email@example.com]  
-**🌍 Portfolio:** [your-portfolio-link.com]
+**📧 Email:** saneesa@zeestmedia.com]  
+**🌍 Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
