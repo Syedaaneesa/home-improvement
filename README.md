@@ -78,7 +78,7 @@ Applied SEO techniques and integrated essential meta tags
 
 ## 📬 Contact
 
-If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
+If you're looking for WordPress design, Elementor customization, or complete website development, I’d be happy to connect!
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
