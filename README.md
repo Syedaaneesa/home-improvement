@@ -63,18 +63,17 @@ Modern design style with clean typography and visual balance
 
 This project was entirely **designed, developed, and deployed** by me.  
 Key efforts include:
+Developed custom Elementor sections designed specifically for the project’s requirements.
 
-Crafted custom Elementor sections tailored to project needs
+Polished CSS for perfect visual alignment and consistency.
 
-Refined CSS for flawless, precise design alignment
+Optimized images to improve loading speed and overall performance.
 
-Optimized images to enhance website speed and performance
+Configured and troubleshot plugins to ensure seamless functionality.
 
-Configured and debugged plugins for smooth functionality
+Guaranteed full responsiveness across all screen sizes and devices.
 
-Ensured full responsiveness across all device sizes
-
-Applied SEO techniques and integrated essential meta tags
+Implemented SEO best practices and added key meta tags for better search visibility.
 
 ---
 
