@@ -85,9 +85,7 @@ Applied SEO best practices and added essential meta tags for improved search vis
 
 ## 📬 Contact
 
-If you need WordPress design, Elementor customization, or a full website build, I’d be glad to collaborate.
-
-Whether it's WordPress design, Elementor customization, or a complete site build, I'm here to help.
+Whether you're looking for WordPress design, Elementor customization, or a full website build, I'm ready to collaborate and bring your vision to life.
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
