@@ -37,11 +37,11 @@ This project represents a **complete WordPress development workflow**, including
 ## 🧱 Key Features
 Designed custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages
 
-Built a cohesive UI with smooth, intuitive navigation across the entire site
+Built a unified interface with smooth and intuitive site-wide navigation
 
 Developed a fully responsive design optimized for desktop, tablet, and mobile
 
-Optimized all media assets to improve loading speed and overall performance
+Optimized all media assets to enhance loading speed and overall performance
 
 Created reusable design components to support flexibility and future scalability
 
@@ -65,15 +65,15 @@ This project was entirely **designed, developed, and deployed** by me.
 Key efforts include:
 Developed custom Elementor sections designed specifically for the project’s requirements.
 
-Refined CSS to achieve precise visual alignment and consistent styling.
+Refined CSS to achieve accurate visual alignment and consistent styling
 
-Optimized images to enhance load speed and overall site performance.
+Optimized images to improve loading speed and overall performance
 
-Configured and troubleshot plugins for smooth, reliable functionality.
+Configured and troubleshot plugins for smooth and reliable functionality
 
-Ensured full responsiveness across all screen sizes and devices.
+Ensured complete responsiveness across all screen sizes and devices
 
-Applied SEO best practices and added essential meta tags for improved search visibility.
+Applied SEO best practices and added essential meta tags for better search visibility
 
 ---
 
