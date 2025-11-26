@@ -35,15 +35,15 @@ This project represents a **complete WordPress development workflow**, including
 ---
 
 ## 🧱 Key Features
-Designed custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages
+Crafted custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
 
-Built a unified interface with smooth and intuitive site-wide navigation
+Developed a cohesive interface with smooth, intuitive navigation across the entire site.
 
-Developed a fully responsive design optimized for desktop, tablet, and mobile
+Built a fully responsive design optimized for desktop, tablet, and mobile devices.
 
-Optimized all media assets to enhance loading speed and overall performance
+Optimized all media assets to improve loading times and overall performance.
 
-Created reusable design components to support flexibility and future scalability
+Created reusable design components to ensure flexibility and future scalability.
 
 Modern design style with clean typography and visual balance
 ---
@@ -85,7 +85,7 @@ Applied SEO best practices and added essential meta tags for better search visib
 
 ## 📬 Contact
 
-Whether you're looking for WordPress design, Elementor customization, or a full website build, I'm ready to collaborate and bring your vision to life.
+Whether you need WordPress design, Elementor customization, or a complete website build, I’m here to collaborate and bring your vision to life.
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
