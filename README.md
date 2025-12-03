@@ -31,11 +31,11 @@ This project represents a **complete WordPress development workflow**, including
 ## 🧱 Key Features
 Designed custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
 
-Built a unified interface that delivers smooth and intuitive navigation throughout the site.
+Built a cohesive interface that ensures smooth, intuitive navigation across the site.
 
 Developed a fully responsive design optimized for desktop, tablet, and mobile devices.
 
-Optimized all media assets to enhance loading speed and overall site performance.
+Optimized all media assets to improve loading speed and overall performance.
 
 Created reusable design components to support flexibility and future scalability.
 
@@ -57,17 +57,17 @@ Modern design style with clean typography and visual balance
 
 This project was entirely **designed, developed, and deployed** by me.  
 Key efforts include:
-Built custom Elementor sections tailored to the project’s unique requirements.
+Built custom Elementor sections tailored to the project’s specific needs.
 
-Refined CSS to ensure precise visual alignment and consistent styling across the entire site.
+Refined CSS to achieve precise visual alignment and consistent styling throughout the site.
 
-Optimized images to improve loading speed and overall performance.
+Optimized images to improve load times and overall performance.
 
-Configured and troubleshot plugins to maintain smooth and reliable functionality.
+Configured and troubleshot plugins to ensure smooth, reliable functionality.
 
 Ensured full responsiveness across all devices and screen sizes.
 
-Applied SEO best practices and added essential meta tags to enhance search visibility.
+Applied SEO best practices and added essential meta tags to boost search visibility.
 
 ---
 
@@ -79,7 +79,7 @@ Applied SEO best practices and added essential meta tags to enhance search visib
 
 ## 📬 Contact
 
-Whether you need WordPress design, Elementor customization, or a complete website build, I’m ready to work with you and bring your ideas to life.
+Whether you need WordPress design, Elementor customization, or a complete website build, I’m ready to collaborate and bring your ideas to life.
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
