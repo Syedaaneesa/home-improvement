@@ -33,7 +33,7 @@ This project represents a **complete WordPress development workflow**, including
 
 ---
 
-## 🧱 Key Features
+##  Key Features
 Created custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
 
 Established a cohesive interface to ensure intuitive and seamless navigation.
@@ -47,7 +47,7 @@ Built reusable design components to support scalability and future updates.
 Modern design style with clean typography and visual balance
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Platform:** WordPress (PHP, MySQL)
 - **Page Builder:** Elementor Pro  
@@ -58,7 +58,7 @@ Modern design style with clean typography and visual balance
 
 ---
 
-## 💪 Efforts & Contributions
+##  Efforts & Contributions
 
 This project was entirely **designed, developed, and deployed** by me.  
 Key efforts include:
@@ -75,20 +75,20 @@ Delivered full responsiveness across all devices and screen sizes
 Implemented SEO best practices with essential meta tags to improve search visibility
 ---
 
-## 🌐 Live Project
+##  Live Project
 
-👉 **Visit Website:** [https://homeimprovementspecialist.co.uk/](https://homeimprovementspecialist.co.uk/)
+ **Visit Website:** [https://homeimprovementspecialist.co.uk/](https://homeimprovementspecialist.co.uk/)
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Whether it’s WordPress design, Elementor customization, or complete website development, I’m ready to collaborate and turn your vision into reality.
 
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
-### ⭐ If you like this project, don’t forget to star the repo!
+###  If you like this project, don’t forget to star the repo!
