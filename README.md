@@ -1,23 +1,23 @@
-# 🏡 Home Improvement Specialist — WordPress Project
+#  Home Improvement Specialist — WordPress Project
 
 A modern, fully customized **WordPress website** built for [Home Improvement Specialist](https://homeimprovementspecialist.co.uk/), designed to showcase professional renovation, repair, and home improvement services with an elegant, responsive layout.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project represents a **complete WordPress development workflow**, including:
-🎨 Created a fully custom WordPress theme from scratch.
+ Created a fully custom WordPress theme from scratch.
 
-⚙️ Designed bespoke Elementor layouts to ensure a consistent and cohesive design.
+ Designed bespoke Elementor layouts to ensure a consistent and cohesive design.
 
-🧩 Developed custom sections for services, galleries, and contact forms.
+ Developed custom sections for services, galleries, and contact forms.
 
-💡 Achieved full responsiveness and smooth performance across all devices.
+ Achieved full responsiveness and smooth performance across all devices.
 
-🔍 Implemented SEO-optimized meta structures and clean permalink architecture.
+ Implemented SEO-optimized meta structures and clean permalink architecture.
 
-🛠️ Installed and configured essential plugins to enhance site performance and security.
+ Installed and configured essential plugins to enhance site performance and security.
 
 ---
 
