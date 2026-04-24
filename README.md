@@ -21,7 +21,7 @@ This project represents a **complete WordPress development workflow**, including
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 | Home | About | Services |
 |------|--------|-----------|
