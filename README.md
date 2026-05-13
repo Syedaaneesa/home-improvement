@@ -85,9 +85,11 @@ Implemented SEO best practices with essential meta tags to improve search visibi
 
 Whether it’s WordPress design, Elementor customization, or complete website development, I’m ready to collaborate and turn your vision into reality.
 
-** Developer:** Syeda Aneesa  
-** Email:** saneesa@zeestmedia.com]  
-** Portfolio:** https://aneesa.zeestmedia.com
+**Developer** :  Syeda Aneesa  
+
+**Email** :  saneesa@zeestmedia.com
+
+**Portfolio** :  https://aneesa.zeestmedia.com
 
 ---
 
