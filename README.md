@@ -35,17 +35,19 @@ Installed, configured, and optimized essential plugins to improve website speed,
 ---
 
 ##  Key Features
-Created custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
 
-Established a cohesive interface to ensure intuitive and seamless navigation.
+ Designed and developed custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
+ 
+ Created a cohesive and intuitive user interface to ensure seamless navigation and an engaging user experience.
+ 
+ Built a fully responsive website optimized for desktop, tablet, and mobile devices.
+ 
+ Improved website performance through optimized images, media assets, and efficient page structure.
+ 
+ Developed reusable design components to support scalability, consistency, and easier future updates.
+ 
+ Applied a modern design approach with clean typography, balanced visuals, and a polished aesthetic.
 
-Developed a fully responsive design optimized for desktop, tablet, and mobile devices.
-
-Enhanced site performance through image and media optimization.
-
-Built reusable design components to support scalability and future updates.
-
-Modern design style with clean typography and visual balance
 ---
 
 ##  Tools & Technologies
