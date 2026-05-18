@@ -86,7 +86,7 @@ Implemented SEO best practices with essential meta tags to improve search visibi
 
 ##  Contact
 
-Whether it’s WordPress design, Elementor customization, or complete website development, I’m ready to collaborate and turn your vision into reality.
+Whether you need WordPress design, Elementor customization, or complete website development, I’m ready to help bring your ideas to life with modern, responsive, and user-friendly solutions.
 
 **Developer** :  Syeda Aneesa  
 
