@@ -8,19 +8,12 @@ Live Link:  [Home Improvement Specialist](https://homeimprovementspecialist.co.u
 ##  Project Overview
 
 This project represents a **complete WordPress development workflow**, including:
-
 Developed a fully custom WordPress theme tailored to the client’s brand and business requirements.
-
 Designed and customized bespoke Elementor layouts to maintain a modern, cohesive, and user-friendly experience.
-
 Built custom sections for services, galleries, and contact forms with seamless functionality and clean UI/UX.
-
 Ensured full responsiveness and optimized performance across desktops, tablets, and mobile devices.
-
 Implemented SEO-friendly meta structures, optimized content hierarchy, and clean permalink architecture for better search visibility.
-
 Installed, configured, and optimized essential plugins to improve website speed, security, and overall functionality.
-
 ---
 
 ##  Project Screenshots
@@ -38,15 +31,10 @@ Installed, configured, and optimized essential plugins to improve website speed,
 ##  Key Features
 
  Designed and developed custom Elementor layouts for the Home, About, Services, Gallery, and Contact pages.
- 
  Created a cohesive and intuitive user interface to ensure seamless navigation and an engaging user experience.
- 
  Built a fully responsive website optimized for desktop, tablet, and mobile devices.
- 
  Improved website performance through optimized images, media assets, and efficient page structure.
- 
  Developed reusable design components to support scalability, consistency, and easier future updates.
- 
  Applied a modern design approach with clean typography, balanced visuals, and a polished aesthetic.
 
 ---
@@ -67,16 +55,12 @@ Installed, configured, and optimized essential plugins to improve website speed,
 This project was entirely **designed, developed, and deployed** by me.  
 Key efforts include:
 Developed custom Elementor sections aligned with the project’s specific requirements
-
 Fine-tuned CSS to ensure precise layout alignment and consistent styling across the site
-
 Optimized images to enhance load times and overall performance
-
 Configured and troubleshot plugins to ensure stable, reliable functionality
-
 Delivered full responsiveness across all devices and screen sizes
-
 Implemented SEO best practices with essential meta tags to improve search visibility
+
 ---
 
 ##  Live Project
@@ -90,9 +74,7 @@ Implemented SEO best practices with essential meta tags to improve search visibi
 Whether you need WordPress design, Elementor customization, or complete website development, I’m ready to help bring your ideas to life with modern, responsive, and user-friendly solutions.
 
 **Developer** :  Syeda Aneesa  
-
 **Email** :  saneesa@zeestmedia.com
-
 **Portfolio** :  https://aneesa.zeestmedia.com
 
 ---
