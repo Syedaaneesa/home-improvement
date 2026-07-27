@@ -5,16 +5,16 @@ A modern, fully customized **WordPress website** built for [Home Improvement Spe
 Live Link:  [Home Improvement Specialist](https://homeimprovementspecialist.co.uk/)
 ---
 
-##  Project Overview
+## Project Overview
 
-This project represents a **complete WordPress development workflow**, including: /
-Developed a fully custom WordPress theme tailored to the client’s brand and business requirements.
-Designed and customized bespoke Elementor layouts to maintain a modern, cohesive, and user-friendly experience.
-Built custom sections for services, galleries, and contact forms with seamless functionality and clean UI/UX.
-Ensured full responsiveness and optimized performance across desktops, tablets, and mobile devices.
-Implemented SEO-friendly meta structures, optimized content hierarchy, and clean permalink architecture for better search visibility.
-Installed, configured, and optimized essential plugins to improve website speed, security, and overall functionality.
----
+This project represents a **complete WordPress development workflow**, including:
+
+* Developed a fully custom WordPress theme tailored to the client's brand and business requirements.
+* Designed and customized bespoke Elementor layouts to deliver a modern, cohesive, and user-friendly experience.
+* Built custom sections for services, galleries, and contact forms with seamless functionality and a clean UI/UX.
+* Ensured full responsiveness and optimized performance across desktop, tablet, and mobile devices.
+* Implemented SEO-friendly meta structures, optimized content hierarchy, and clean permalink architecture to improve search visibility.
+* Installed, configured, and optimized essential WordPress plugins to enhance website speed, security, and overall functionality.
 
 ##  Project Screenshots
 
