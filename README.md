@@ -70,14 +70,14 @@ Implemented SEO best practices with essential meta tags to improve search visibi
 
 ---
 
-##  Contact
+## Contact
 
-Whether you need WordPress design, Elementor customization, or complete website development, I’m ready to help bring your ideas to life with modern, responsive, and user-friendly solutions.
+Need a custom WordPress website, Elementor customization, or complete website development? I'm ready to help transform your ideas into a modern, responsive, and user-friendly website.
 
-**Developer** :  Syeda Aneesa  
-**Email** :  saneesa@zeestmedia.com
-**Portfolio** :  https://aneesa.zeestmedia.com
+**Developer:** Syeda Aneesa
+**Email:** [saneesa@zeestmedia.com](mailto:saneesa@zeestmedia.com)
+**Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
-******  If you like this project, don’t forget to star the repo!  *******
+⭐ **If you found this project helpful, please consider giving the repository a star!** ⭐
