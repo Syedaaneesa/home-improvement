@@ -7,7 +7,7 @@ Live Link:  [Home Improvement Specialist](https://homeimprovementspecialist.co.u
 
 ##  Project Overview
 
-This project represents a **complete WordPress development workflow**, including:
+This project represents a **complete WordPress development workflow**, including: /
 Developed a fully custom WordPress theme tailored to the client’s brand and business requirements.
 Designed and customized bespoke Elementor layouts to maintain a modern, cohesive, and user-friendly experience.
 Built custom sections for services, galleries, and contact forms with seamless functionality and clean UI/UX.
