@@ -4,7 +4,6 @@ A modern, fully customized **WordPress website** built for [Home Improvement Spe
 
 **Live Website:** [Home Improvement Specialist](https://homeimprovementspecialist.co.uk/)
 
----
 
 ## Project Overview
 
@@ -27,7 +26,6 @@ This project represents a **complete WordPress development workflow**, including
 |----------|----------|
 | ![Gallery](https://github.com/Syedaaneesa/home-improvement/blob/main/Gallery--10-07-2025_08_06_PM.png) | ![Contact](https://github.com/Syedaaneesa/home-improvement/blob/main/Contact--10-07-2025_08_08_PM.png) |
 
----
 
 ##  Key Features
 
@@ -38,7 +36,6 @@ This project represents a **complete WordPress development workflow**, including
  Developed reusable design components to support scalability, consistency, and easier future updates.
  Applied a modern design approach with clean typography, balanced visuals, and a polished aesthetic.
 
----
 
 ##  Tools & Technologies
 
@@ -49,7 +46,6 @@ This project represents a **complete WordPress development workflow**, including
 - **Hosting:** cPanel-based WordPress Hosting  
 - **Version Control:** Git & GitHub  
 
----
 
 ##  Efforts & Contributions
 
@@ -62,13 +58,11 @@ Configured and troubleshot plugins to ensure stable, reliable functionality
 Delivered full responsiveness across all devices and screen sizes
 Implemented SEO best practices with essential meta tags to improve search visibility
 
----
 
 ##  Live Project
 
  **Visit Live Website:** [https://homeimprovementspecialist.co.uk/](https://homeimprovementspecialist.co.uk/)
 
----
 
 ## Contact
 
@@ -78,6 +72,5 @@ Need a custom WordPress website, Elementor customization, or complete website de
 **Email:** [saneesa@zeestmedia.com](mailto:saneesa@zeestmedia.com)
 **Portfolio:** https://aneesa.zeestmedia.com
 
----
 
 ⭐ **If you found this project helpful, please consider giving the repository a star!** ⭐
