@@ -2,7 +2,7 @@
 
 A modern, fully customized **WordPress website** built for [Home Improvement Specialist](https://homeimprovementspecialist.co.uk/), designed to showcase professional renovation, repair, and home improvement services with an elegant, responsive layout.
 
-**Live Website:** [Home Improvement Specialist](https://homeimprovementspecialist.co.uk/)
+**Live Website:** [https://homeimprovementspecialist.co.uk/](https://homeimprovementspecialist.co.uk/)
 
 
 ## Project Overview
@@ -69,7 +69,7 @@ Implemented SEO best practices with essential meta tags to improve search visibi
 Need a custom WordPress website, Elementor customization, or complete website development? I'm ready to help transform your ideas into a modern, responsive, and user-friendly website.
 
 **Developer:** Syeda Aneesa
-**Email:** [saneesa@zeestmedia.com](mailto:saneesa@zeestmedia.com)
+**Email:** [s.shujaat05@gmail.com](mailto:s.shujaat05@gmail.com)
 **Portfolio:** https://aneesa.zeestmedia.com
 
 
